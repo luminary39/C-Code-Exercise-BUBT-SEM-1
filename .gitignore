@@ -1,0 +1,12 @@
+# Compiled Executables
+*.exe
+*.out
+*.app
+
+# Object Files
+*.o
+*.obj
+
+# Debug & Temporary Files
+*.pdb
+*.ilk
