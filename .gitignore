@@ -10,3 +10,7 @@
 # Debug & Temporary Files
 *.pdb
 *.ilk
+
+# VS Code
+*.vscode
+
